@@ -1,0 +1,6 @@
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\PTOOP-master\PTOOP-master\Lab6\Lab4\Models\bin\Debug\Models.dll
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\PTOOP-master\PTOOP-master\Lab6\Lab4\Models\bin\Debug\Models.pdb
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\PTOOP-master\PTOOP-master\Lab6\Lab4\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\PTOOP-master\PTOOP-master\Lab6\Lab4\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\PTOOP-master\PTOOP-master\Lab6\Lab4\Models\obj\Debug\Models.dll
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\PTOOP-master\PTOOP-master\Lab6\Lab4\Models\obj\Debug\Models.pdb
