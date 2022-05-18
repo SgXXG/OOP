@@ -1,6 +1,0 @@
-D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\PTOOP-master\PTOOP-master\Lab3\Lab3\Helpers\bin\Debug\Helpers.dll
-D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\PTOOP-master\PTOOP-master\Lab3\Lab3\Helpers\bin\Debug\Helpers.pdb
-D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\PTOOP-master\PTOOP-master\Lab3\Lab3\Helpers\obj\Debug\Helpers.csproj.AssemblyReference.cache
-D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\PTOOP-master\PTOOP-master\Lab3\Lab3\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
-D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\PTOOP-master\PTOOP-master\Lab3\Lab3\Helpers\obj\Debug\Helpers.dll
-D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\PTOOP-master\PTOOP-master\Lab3\Lab3\Helpers\obj\Debug\Helpers.pdb

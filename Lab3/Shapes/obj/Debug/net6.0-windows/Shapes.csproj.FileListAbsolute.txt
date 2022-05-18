@@ -1,0 +1,12 @@
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\OOP_Laba3_4-master\OOP_Laba3_4-master\Shapes\bin\Debug\net6.0-windows\Shapes.deps.json
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\OOP_Laba3_4-master\OOP_Laba3_4-master\Shapes\bin\Debug\net6.0-windows\Shapes.dll
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\OOP_Laba3_4-master\OOP_Laba3_4-master\Shapes\bin\Debug\net6.0-windows\Shapes.pdb
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\OOP_Laba3_4-master\OOP_Laba3_4-master\Shapes\obj\Debug\net6.0-windows\Shapes.csproj.AssemblyReference.cache
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\OOP_Laba3_4-master\OOP_Laba3_4-master\Shapes\obj\Debug\net6.0-windows\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\OOP_Laba3_4-master\OOP_Laba3_4-master\Shapes\obj\Debug\net6.0-windows\Shapes.AssemblyInfoInputs.cache
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\OOP_Laba3_4-master\OOP_Laba3_4-master\Shapes\obj\Debug\net6.0-windows\Shapes.AssemblyInfo.cs
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\OOP_Laba3_4-master\OOP_Laba3_4-master\Shapes\obj\Debug\net6.0-windows\Shapes.csproj.CoreCompileInputs.cache
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\OOP_Laba3_4-master\OOP_Laba3_4-master\Shapes\obj\Debug\net6.0-windows\Shapes.dll
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\OOP_Laba3_4-master\OOP_Laba3_4-master\Shapes\obj\Debug\net6.0-windows\refint\Shapes.dll
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\OOP_Laba3_4-master\OOP_Laba3_4-master\Shapes\obj\Debug\net6.0-windows\Shapes.pdb
+D:\!Studing\2 Course\4 Sem\ООТПиСП\Labs\OOP_Laba3_4-master\OOP_Laba3_4-master\Shapes\obj\Debug\net6.0-windows\ref\Shapes.dll
